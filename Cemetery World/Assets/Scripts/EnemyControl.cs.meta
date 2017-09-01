@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 091ffb8c9cc31e04fbdb0e2bd5fab96e
+timeCreated: 1504184259
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - skydir: {instanceID: 0}
+  - gem: {fileID: 1126605339168922, guid: 637b775ae587958478c94ad06b68dc3b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

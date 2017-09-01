@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: abc1cff007ec0164d84ddb01185f6344
+timeCreated: 1504186704
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: JMH HORROR
+  fontNames:
+  - JMH HORROR
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
